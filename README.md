@@ -46,7 +46,7 @@
 ### 🖥️ Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![intellij](https://img.shields.io/badge/IntelliJ IDEA-198CCD?style=for-the-badge&logo=intellij&logoColor=white)
+![intellij](https://img.shields.io/badge/IntelliJ-IDEA-198CCD?style=for-the-badge&logo=intellij&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-Ubuntu-FF1A84?style=for-the-badge&logo=linux&logoColor=white)
 ![apple](https://img.shields.io/badge/McOS-FCFCFC?style=for-the-badge&logo=apple&logoColor=black)
