@@ -33,7 +33,7 @@
 ---
 
 ### 🚀 Desarrollo Web
-![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![prestashop](https://img.shields.io/badge/PrestaShop-00C4D9?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,6 +57,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
+![JesusFAvila github stats](https://github-readme-stats.vercel.app/api?username=JesusFAvila&show_icons=true&theme=radical)
 
 
 
@@ -65,4 +66,5 @@
 <!---
 JesusFAvila/JesusFAvila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github.com/Ileriayo/markdown-badges
 --->
