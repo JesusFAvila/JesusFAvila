@@ -41,9 +41,6 @@
 ![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-](https://img.shields.io/badge/Vercel-5F5F5F?style=for-the-badge&logo=vercel&logoColor=white)
-
----
 
 ### 🖥️ Workspace Setup
 
