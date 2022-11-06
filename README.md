@@ -35,6 +35,7 @@
 
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
  
@@ -43,7 +44,6 @@
 ### CMS
 
 ![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
-![woocomerce](https://img.shields.io/badge/WooComerce-8F0183?style=for-the-badge&logo=woocomerce&logoColor=white)
 ![prestashop](https://img.shields.io/badge/PrestaShop-000000?style=for-the-badge&logo=prestashop&logoColor=white)
 
 ---
