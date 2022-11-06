@@ -40,9 +40,9 @@
  
 ---
 
-### Bases de datos
+### CMS
 
-![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-E97B00?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
