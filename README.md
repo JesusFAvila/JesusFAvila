@@ -39,6 +39,7 @@
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=white)
+![php](https://img.shields.io/badge/php-FFD000?style=for-the-badge&logo=php&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
