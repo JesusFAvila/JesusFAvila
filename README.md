@@ -32,8 +32,9 @@
 
 ---
 
-### 💻 Desarrollo Front-End y Diseño Gráfico 
-
+### 🚀 Desarrollo Web
+![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
+![prestashop](https://img.shields.io/badge/PrestaShop-00C4D9?style=for-the-badge&logo=prestashop&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -44,14 +45,7 @@
 
 ---
 
-### 🚀 CMS
-
-![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
-![prestashop](https://img.shields.io/badge/PrestaShop-00C4D9?style=for-the-badge&logo=prestashop&logoColor=white)
-
----
-
-### 🖥️ Workspace Setup
+### 💻 Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA-ideaj&logoColor=white)
