@@ -42,7 +42,7 @@
 
 ### CMS
 
-![wordpress](https://img.shields.io/badge/wordpress-E97B00?style=for-the-badge&logo=wordpress&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
