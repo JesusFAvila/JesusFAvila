@@ -18,7 +18,7 @@
 ---
 
 
-## Lenguajes y herramientas:
+## 🛠 Lenguajes y herramientas:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,7 +31,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-### Desarrollo Front-End 
+### 💻 Desarrollo Front-End 
 
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@
  
 ---
 
-### CMS
+### 🚀 CMS
 
 ![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
 ![prestashop](https://img.shields.io/badge/PrestaShop-00C4D9?style=for-the-badge&logo=prestashop&logoColor=white)
