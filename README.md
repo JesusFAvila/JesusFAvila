@@ -40,8 +40,8 @@
 ![javascript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
-![photoshop](https://img.shields.io/badge/Adobe_Photoshop-2040E1?style=for-the-badge&logo=photoshop&logoColor=white)
-![illustrator](https://img.shields.io/badge/Adobe_illustrator-E47211?style=for-the-badge&logo=illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 
