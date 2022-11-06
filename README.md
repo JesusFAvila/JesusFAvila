@@ -42,7 +42,9 @@
 
 ### CMS
 
-![wordpress](https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
+![woocomerce](https://img.shields.io/badge/WooComerce-8F0183?style=for-the-badge&logo=woocomerce&logoColor=white)
+![prestashop](https://img.shields.io/badge/PrestaShop-000000?style=for-the-badge&logo=prestashop&logoColor=white)
 
 ---
 
