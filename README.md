@@ -35,6 +35,7 @@
 ### 🚀 Desarrollo Web
 ![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
 ![prestashop](https://img.shields.io/badge/PrestaShop-00C4D9?style=for-the-badge&logo=prestashop&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -48,10 +49,12 @@
 ### 💻 Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA-ideaj&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux_Ubuntu-FF1A84?style=for-the-badge&logo=linux&logoColor=white)
-![apple](https://img.shields.io/badge/McOS-C3C3C3?style=for-the-badge&logo=apple&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
 
