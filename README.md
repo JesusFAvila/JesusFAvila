@@ -47,6 +47,8 @@
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
+![ios](https://img.shields.io/badge/ios-2040E1?style=for-the-badge&logo=ios&logoColor=white)
+
 
 
 
