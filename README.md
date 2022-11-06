@@ -45,7 +45,7 @@
 ### CMS
 
 ![wordpress](https://img.shields.io/badge/WordPress-198CCD?style=for-the-badge&logo=wordpress&logoColor=white)
-![prestashop](https://img.shields.io/badge/PrestaShop-000000?style=for-the-badge&logo=prestashop&logoColor=white)
+![prestashop](https://img.shields.io/badge/PrestaShop-00ECD2?style=for-the-badge&logo=prestashop&logoColor=white)
 
 ---
 
