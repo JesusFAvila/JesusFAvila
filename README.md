@@ -49,7 +49,7 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA-ideaj&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux_Ubuntu-FF1A84?style=for-the-badge&logo=linux&logoColor=white)
-![apple](https://img.shields.io/badge/McOS-FCFCFC?style=for-the-badge&logo=apple&logoColor=black)
+![apple](https://img.shields.io/badge/McOS-C3C3C3?style=for-the-badge&logo=apple&logoColor=black)
 
 
 
