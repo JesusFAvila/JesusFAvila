@@ -52,6 +52,7 @@
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
